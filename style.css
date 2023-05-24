@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    color: white;
+    padding-top: 2rem;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 3rem;
+}
+
+button {
+    padding: 0.5rem;
+    margin: 0.1rem;
+}
+
+button.kamen {
+    background-color: #313131;
+}
+
